@@ -1,0 +1,432 @@
+Initializing deployment
+Cloning Repo github.com/unlock-gab/ecom.git to /etc/dokploy/applications/bio-ecom-fronted-eyhz3t/code: ✅
+Cloning into '/etc/dokploy/applications/bio-ecom-fronted-eyhz3t/code'...
+remote: Enumerating objects: 134, done.
+remote: Counting objects:   0% (1/134)        
+remote: Counting objects:   1% (2/134)        
+remote: Counting objects:   2% (3/134)        
+remote: Counting objects:   3% (5/134)        
+remote: Counting objects:   4% (6/134)        
+remote: Counting objects:   5% (7/134)        
+remote: Counting objects:   6% (9/134)        
+remote: Counting objects:   7% (10/134)        
+remote: Counting objects:   8% (11/134)        
+remote: Counting objects:   9% (13/134)        
+remote: Counting objects:  10% (14/134)        
+remote: Counting objects:  11% (15/134)        
+remote: Counting objects:  12% (17/134)        
+remote: Counting objects:  13% (18/134)        
+remote: Counting objects:  14% (19/134)        
+remote: Counting objects:  15% (21/134)        
+remote: Counting objects:  16% (22/134)        
+remote: Counting objects:  17% (23/134)        
+remote: Counting objects:  18% (25/134)        
+remote: Counting objects:  19% (26/134)        
+remote: Counting objects:  20% (27/134)        
+remote: Counting objects:  21% (29/134)        
+remote: Counting objects:  22% (30/134)        
+remote: Counting objects:  23% (31/134)        
+remote: Counting objects:  24% (33/134)        
+remote: Counting objects:  25% (34/134)        
+remote: Counting objects:  26% (35/134)        
+remote: Counting objects:  27% (37/134)        
+remote: Counting objects:  28% (38/134)        
+remote: Counting objects:  29% (39/134)        
+remote: Counting objects:  30% (41/134)        
+remote: Counting objects:  31% (42/134)        
+remote: Counting objects:  32% (43/134)        
+remote: Counting objects:  33% (45/134)        
+remote: Counting objects:  34% (46/134)        
+remote: Counting objects:  35% (47/134)        
+remote: Counting objects:  36% (49/134)        
+remote: Counting objects:  37% (50/134)        
+remote: Counting objects:  38% (51/134)        
+remote: Counting objects:  39% (53/134)        
+remote: Counting objects:  40% (54/134)        
+remote: Counting objects:  41% (55/134)        
+remote: Counting objects:  42% (57/134)        
+remote: Counting objects:  43% (58/134)        
+remote: Counting objects:  44% (59/134)        
+remote: Counting objects:  45% (61/134)        
+remote: Counting objects:  46% (62/134)        
+remote: Counting objects:  47% (63/134)        
+remote: Counting objects:  48% (65/134)        
+remote: Counting objects:  49% (66/134)        
+remote: Counting objects:  50% (67/134)        
+remote: Counting objects:  51% (69/134)        
+remote: Counting objects:  52% (70/134)        
+remote: Counting objects:  53% (72/134)        
+remote: Counting objects:  54% (73/134)        
+remote: Counting objects:  55% (74/134)        
+remote: Counting objects:  56% (76/134)        
+remote: Counting objects:  57% (77/134)        
+remote: Counting objects:  58% (78/134)        
+remote: Counting objects:  59% (80/134)        
+remote: Counting objects:  60% (81/134)        
+remote: Counting objects:  61% (82/134)        
+remote: Counting objects:  62% (84/134)        
+remote: Counting objects:  63% (85/134)        
+remote: Counting objects:  64% (86/134)        
+remote: Counting objects:  65% (88/134)        
+remote: Counting objects:  66% (89/134)        
+remote: Counting objects:  67% (90/134)        
+remote: Counting objects:  68% (92/134)        
+remote: Counting objects:  69% (93/134)        
+remote: Counting objects:  70% (94/134)        
+remote: Counting objects:  71% (96/134)        
+remote: Counting objects:  72% (97/134)        
+remote: Counting objects:  73% (98/134)        
+remote: Counting objects:  74% (100/134)        
+remote: Counting objects:  75% (101/134)        
+remote: Counting objects:  76% (102/134)        
+remote: Counting objects:  77% (104/134)        
+remote: Counting objects:  78% (105/134)        
+remote: Counting objects:  79% (106/134)        
+remote: Counting objects:  80% (108/134)        
+remote: Counting objects:  81% (109/134)        
+remote: Counting objects:  82% (110/134)        
+remote: Counting objects:  83% (112/134)        
+remote: Counting objects:  84% (113/134)        
+remote: Counting objects:  85% (114/134)        
+remote: Counting objects:  86% (116/134)        
+remote: Counting objects:  87% (117/134)        
+remote: Counting objects:  88% (118/134)        
+remote: Counting objects:  89% (120/134)        
+remote: Counting objects:  90% (121/134)        
+remote: Counting objects:  91% (122/134)        
+remote: Counting objects:  92% (124/134)        
+remote: Counting objects:  93% (125/134)        
+remote: Counting objects:  94% (126/134)        
+remote: Counting objects:  95% (128/134)        
+remote: Counting objects:  96% (129/134)        
+remote: Counting objects:  97% (130/134)        
+remote: Counting objects:  98% (132/134)        
+remote: Counting objects:  99% (133/134)        
+remote: Counting objects: 100% (134/134)        
+remote: Counting objects: 100% (134/134), done.
+remote: Compressing objects:   0% (1/127)        
+remote: Compressing objects:   1% (2/127)        
+remote: Compressing objects:   2% (3/127)        
+remote: Compressing objects:   3% (4/127)        
+remote: Compressing objects:   4% (6/127)        
+remote: Compressing objects:   5% (7/127)        
+remote: Compressing objects:   6% (8/127)        
+remote: Compressing objects:   7% (9/127)        
+remote: Compressing objects:   8% (11/127)        
+remote: Compressing objects:   9% (12/127)        
+remote: Compressing objects:  10% (13/127)        
+remote: Compressing objects:  11% (14/127)        
+remote: Compressing objects:  12% (16/127)        
+remote: Compressing objects:  13% (17/127)        
+remote: Compressing objects:  14% (18/127)        
+remote: Compressing objects:  15% (20/127)        
+remote: Compressing objects:  16% (21/127)        
+remote: Compressing objects:  17% (22/127)        
+remote: Compressing objects:  18% (23/127)        
+remote: Compressing objects:  19% (25/127)        
+remote: Compressing objects:  20% (26/127)        
+remote: Compressing objects:  21% (27/127)        
+remote: Compressing objects:  22% (28/127)        
+remote: Compressing objects:  23% (30/127)        
+remote: Compressing objects:  24% (31/127)        
+remote: Compressing objects:  25% (32/127)        
+remote: Compressing objects:  26% (34/127)        
+remote: Compressing objects:  27% (35/127)        
+remote: Compressing objects:  28% (36/127)        
+remote: Compressing objects:  29% (37/127)        
+remote: Compressing objects:  30% (39/127)        
+remote: Compressing objects:  31% (40/127)        
+remote: Compressing objects:  32% (41/127)        
+remote: Compressing objects:  33% (42/127)        
+remote: Compressing objects:  34% (44/127)        
+remote: Compressing objects:  35% (45/127)        
+remote: Compressing objects:  36% (46/127)        
+remote: Compressing objects:  37% (47/127)        
+remote: Compressing objects:  38% (49/127)        
+remote: Compressing objects:  39% (50/127)        
+remote: Compressing objects:  40% (51/127)        
+remote: Compressing objects:  41% (53/127)        
+remote: Compressing objects:  42% (54/127)        
+remote: Compressing objects:  43% (55/127)        
+remote: Compressing objects:  44% (56/127)        
+remote: Compressing objects:  45% (58/127)        
+remote: Compressing objects:  46% (59/127)        
+remote: Compressing objects:  47% (60/127)        
+remote: Compressing objects:  48% (61/127)        
+remote: Compressing objects:  49% (63/127)        
+remote: Compressing objects:  50% (64/127)        
+remote: Compressing objects:  51% (65/127)        
+remote: Compressing objects:  52% (67/127)        
+remote: Compressing objects:  53% (68/127)        
+remote: Compressing objects:  54% (69/127)        
+remote: Compressing objects:  55% (70/127)        
+remote: Compressing objects:  56% (72/127)        
+remote: Compressing objects:  57% (73/127)        
+remote: Compressing objects:  58% (74/127)        
+remote: Compressing objects:  59% (75/127)        
+remote: Compressing objects:  60% (77/127)        
+remote: Compressing objects:  61% (78/127)        
+remote: Compressing objects:  62% (79/127)        
+remote: Compressing objects:  63% (81/127)        
+remote: Compressing objects:  64% (82/127)        
+remote: Compressing objects:  65% (83/127)        
+remote: Compressing objects:  66% (84/127)        
+remote: Compressing objects:  67% (86/127)        
+remote: Compressing objects:  68% (87/127)        
+remote: Compressing objects:  69% (88/127)        
+remote: Compressing objects:  70% (89/127)        
+remote: Compressing objects:  71% (91/127)        
+remote: Compressing objects:  72% (92/127)        
+remote: Compressing objects:  73% (93/127)        
+remote: Compressing objects:  74% (94/127)        
+remote: Compressing objects:  75% (96/127)        
+remote: Compressing objects:  76% (97/127)        
+remote: Compressing objects:  77% (98/127)        
+remote: Compressing objects:  78% (100/127)        
+remote: Compressing objects:  79% (101/127)        
+remote: Compressing objects:  80% (102/127)        
+remote: Compressing objects:  81% (103/127)        
+remote: Compressing objects:  82% (105/127)        
+remote: Compressing objects:  83% (106/127)        
+remote: Compressing objects:  84% (107/127)        
+remote: Compressing objects:  85% (108/127)        
+remote: Compressing objects:  86% (110/127)        
+remote: Compressing objects:  87% (111/127)        
+remote: Compressing objects:  88% (112/127)        
+remote: Compressing objects:  89% (114/127)        
+remote: Compressing objects:  90% (115/127)        
+remote: Compressing objects:  91% (116/127)        
+remote: Compressing objects:  92% (117/127)        
+remote: Compressing objects:  93% (119/127)        
+remote: Compressing objects:  94% (120/127)        
+remote: Compressing objects:  95% (121/127)        
+remote: Compressing objects:  96% (122/127)        
+remote: Compressing objects:  97% (124/127)        
+remote: Compressing objects:  98% (125/127)        
+remote: Compressing objects:  99% (126/127)        
+remote: Compressing objects: 100% (127/127)        
+remote: Compressing objects: 100% (127/127), done.
+Receiving objects:   0% (1/134)
+Receiving objects:   1% (2/134)
+Receiving objects:   2% (3/134)
+Receiving objects:   3% (5/134)
+Receiving objects:   4% (6/134)
+Receiving objects:   5% (7/134)
+Receiving objects:   6% (9/134)
+Receiving objects:   7% (10/134)
+Receiving objects:   8% (11/134)
+Receiving objects:   9% (13/134)
+Receiving objects:  10% (14/134)
+Receiving objects:  11% (15/134)
+Receiving objects:  12% (17/134)
+Receiving objects:  13% (18/134)
+Receiving objects:  14% (19/134)
+Receiving objects:  15% (21/134)
+Receiving objects:  16% (22/134)
+Receiving objects:  17% (23/134)
+Receiving objects:  18% (25/134)
+Receiving objects:  19% (26/134)
+Receiving objects:  20% (27/134)
+Receiving objects:  21% (29/134)
+Receiving objects:  22% (30/134)
+Receiving objects:  23% (31/134)
+Receiving objects:  24% (33/134)
+Receiving objects:  25% (34/134)
+Receiving objects:  26% (35/134)
+Receiving objects:  27% (37/134)
+Receiving objects:  28% (38/134)
+Receiving objects:  29% (39/134)
+Receiving objects:  30% (41/134)
+Receiving objects:  31% (42/134)
+Receiving objects:  32% (43/134)
+Receiving objects:  33% (45/134)
+Receiving objects:  34% (46/134)
+Receiving objects:  35% (47/134)
+Receiving objects:  36% (49/134)
+Receiving objects:  37% (50/134)
+Receiving objects:  38% (51/134)
+Receiving objects:  39% (53/134)
+Receiving objects:  40% (54/134)
+Receiving objects:  41% (55/134)
+Receiving objects:  42% (57/134)
+Receiving objects:  43% (58/134)
+Receiving objects:  44% (59/134)
+Receiving objects:  45% (61/134)
+Receiving objects:  46% (62/134)
+Receiving objects:  47% (63/134)
+Receiving objects:  48% (65/134)
+Receiving objects:  49% (66/134)
+Receiving objects:  50% (67/134)
+Receiving objects:  51% (69/134)
+Receiving objects:  52% (70/134)
+Receiving objects:  53% (72/134)
+Receiving objects:  54% (73/134)
+Receiving objects:  55% (74/134)
+Receiving objects:  56% (76/134)
+Receiving objects:  57% (77/134)
+Receiving objects:  58% (78/134)
+Receiving objects:  59% (80/134)
+Receiving objects:  60% (81/134)
+Receiving objects:  61% (82/134)
+Receiving objects:  62% (84/134)
+Receiving objects:  63% (85/134)
+Receiving objects:  64% (86/134)
+Receiving objects:  65% (88/134)
+Receiving objects:  66% (89/134)
+Receiving objects:  67% (90/134)
+Receiving objects:  68% (92/134)
+Receiving objects:  69% (93/134)
+Receiving objects:  70% (94/134)
+Receiving objects:  71% (96/134)
+Receiving objects:  72% (97/134)
+Receiving objects:  73% (98/134)
+Receiving objects:  74% (100/134)
+Receiving objects:  75% (101/134)
+Receiving objects:  76% (102/134)
+Receiving objects:  77% (104/134)
+Receiving objects:  78% (105/134)
+Receiving objects:  79% (106/134)
+Receiving objects:  80% (108/134)
+Receiving objects:  81% (109/134)
+Receiving objects:  82% (110/134)
+Receiving objects:  83% (112/134)
+Receiving objects:  84% (113/134)
+Receiving objects:  85% (114/134)
+Receiving objects:  86% (116/134)
+remote: Total 134 (delta 4), reused 120 (delta 4), pack-reused 0 (from 0)
+Receiving objects:  87% (117/134)
+Receiving objects:  88% (118/134)
+Receiving objects:  89% (120/134)
+Receiving objects:  90% (121/134)
+Receiving objects:  91% (122/134)
+Receiving objects:  92% (124/134)
+Receiving objects:  93% (125/134)
+Receiving objects:  94% (126/134)
+Receiving objects:  95% (128/134)
+Receiving objects:  96% (129/134)
+Receiving objects:  97% (130/134)
+Receiving objects:  98% (132/134)
+Receiving objects:  99% (133/134)
+Receiving objects: 100% (134/134)
+Receiving objects: 100% (134/134), 2.27 MiB | 27.37 MiB/s, done.
+Resolving deltas:   0% (0/4)
+Resolving deltas:  25% (1/4)
+Resolving deltas:  50% (2/4)
+Resolving deltas:  75% (3/4)
+Resolving deltas: 100% (4/4)
+Resolving deltas: 100% (4/4), done.
+Starting nixpacks build...
+╔═══════════════ Nixpacks v1.41.0 ══════════════╗
+║ setup      │ nodejs_18, npm-9_x, openssl      ║
+║───────────────────────────────────────────────║
+║ caddy      │ caddy                            ║
+║───────────────────────────────────────────────║
+║ install    │ npm ci                           ║
+║───────────────────────────────────────────────║
+║ build      │ npm run build                    ║
+║───────────────────────────────────────────────║
+║ start      │ npm run db:push && npm run start ║
+╚═══════════════════════════════════════════════╝
+#0 building with "default" instance using docker driver
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 1.59kB done
+#1 DONE 0.0s
+#2 [internal] load metadata for ghcr.io/railwayapp/nixpacks:ubuntu-1745885067
+#2 DONE 0.4s
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+#4 [stage-0  1/13] FROM ghcr.io/railwayapp/nixpacks:ubuntu-1745885067@sha256:d45c89d80e13d7ad0fd555b5130f22a866d9dd10e861f589932303ef2314c7de
+#4 resolve ghcr.io/railwayapp/nixpacks:ubuntu-1745885067@sha256:d45c89d80e13d7ad0fd555b5130f22a866d9dd10e861f589932303ef2314c7de 0.0s done
+#4 DONE 0.0s
+#5 [internal] load build context
+#5 transferring context: 6.10MB 0.0s done
+#5 DONE 0.1s
+#6 [stage-0  4/13] RUN nix-env -if .nixpacks/nixpkgs-ba913eda2df8eb72147259189d55932012df6301.nix && nix-collect-garbage -d
+#6 CACHED
+#7 [stage-0  2/13] WORKDIR /app/
+#7 CACHED
+#8 [stage-0  3/13] COPY .nixpacks/nixpkgs-ba913eda2df8eb72147259189d55932012df6301.nix .nixpacks/nixpkgs-ba913eda2df8eb72147259189d55932012df6301.nix
+#8 CACHED
+#9 [stage-0  5/13] COPY .nixpacks/nixpkgs-ffeebf0acf3ae8b29f8c7049cd911b9636efd7e7.nix .nixpacks/nixpkgs-ffeebf0acf3ae8b29f8c7049cd911b9636efd7e7.nix
+#9 CACHED
+#10 [stage-0  6/13] RUN nix-env -if .nixpacks/nixpkgs-ffeebf0acf3ae8b29f8c7049cd911b9636efd7e7.nix && nix-collect-garbage -d
+#10 CACHED
+#11 [stage-0  7/13] COPY .nixpacks/assets /assets/
+#11 CACHED
+#12 [stage-0  8/13] COPY . /app/.
+#12 DONE 0.1s
+#13 [stage-0  9/13] RUN --mount=type=cache,id=2u9m4Y68X4-/root/npm,target=/root/.npm npm ci
+#13 0.286 npm warn config production Use `--omit=dev` instead.
+#13 0.948 npm warn EBADENGINE Unsupported engine {
+#13 0.948 npm warn EBADENGINE   package: 'vite@7.3.0',
+#13 0.948 npm warn EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+#13 0.948 npm warn EBADENGINE   current: { node: 'v18.20.5', npm: '10.8.2' }
+#13 0.948 npm warn EBADENGINE }
+#13 6.362
+#13 6.362 added 478 packages, and audited 479 packages in 6s
+#13 6.362
+#13 6.362 78 packages are looking for funding
+#13 6.362   run `npm fund` for details
+#13 6.379
+#13 6.379 4 vulnerabilities (1 low, 1 moderate, 2 high)
+#13 6.379
+#13 6.379 To address all issues, run:
+#13 6.379   npm audit fix
+#13 6.379
+#13 6.379 Run `npm audit` for details.
+#13 DONE 6.8s
+#14 [stage-0 10/13] COPY . /app/.
+#14 DONE 0.3s
+#15 [stage-0 11/13] RUN --mount=type=cache,id=2u9m4Y68X4-node_modules/cache,target=/app/node_modules/.cache npm run build
+#15 0.339 npm warn config production Use `--omit=dev` instead.
+#15 0.368
+#15 0.368 > rest-express@1.0.0 build
+#15 0.368 > tsx script/build.ts
+#15 0.368
+#15 1.150 building client...
+#15 1.225 [36mvite v7.3.0 [32mbuilding client environment for production...[36m[39m
+#15 1.802 transforming...
+#15 2.854
+#15 2.854 A PostCSS plugin did not pass the `from` option to `postcss.parse`. This may cause imported assets to be incorrectly transformed. If you've recently added a PostCSS plugin that raised this warning, please contact the package author to fix the issue.
+#15 8.486 [32m✓[39m 2744 modules transformed.
+#15 9.273 rendering chunks...
+#15 9.291 computing gzip size...
+#15 9.339 [2m../dist/public/[22m[32mindex.html                 [39m[1m[2m    1.26 kB[22m[1m[22m[2m │ gzip:   0.63 kB[22m
+#15 9.339 [2m../dist/public/[22m[2massets/[22m[35mindex-BFi2d-RZ.css  [39m[1m[2m  101.59 kB[22m[1m[22m[2m │ gzip:  16.38 kB[22m
+#15 9.339 [2m../dist/public/[22m[2massets/[22m[36mindex-1f8PlxTB.js   [39m[1m[33m1,096.13 kB[39m[22m[2m │ gzip: 310.55 kB[22m
+#15 9.339 [33m
+#15 9.339 (!) Some chunks are larger than 500 kB after minification. Consider:
+#15 9.339 - Using dynamic import() to code-split the application
+#15 9.339 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+#15 9.339 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+#15 9.339 [32m✓ built in 7.90s[39m
+#15 9.339 building server...
+#15 9.477
+#15 9.477   dist/index.cjs  1.1mb ⚠️
+#15 9.477
+#15 9.477 ⚡ Done in 118ms
+#15 DONE 9.7s
+#16 [stage-0 12/13] RUN printf '\nPATH=/app/node_modules/.bin:$PATH' >> /root/.profile
+#16 DONE 0.2s
+#17 [stage-0 13/13] COPY . /app
+#17 DONE 0.1s
+#18 exporting to image
+#18 exporting layers
+#18 exporting layers 11.3s done
+#18 exporting manifest sha256:d5f5a94d7e73201b92c6abaada603c430e09a7fbb20283b570d64be86d760766 done
+#18 exporting config sha256:6a4fdb3f88a7bdc0d6cccb27ec11dd7648791d33236053b003ee74dd6a6d930a done
+#18 exporting attestation manifest sha256:f2592527d29ffea4e09d1cbdc16ab23e4e02ca52c4562196a25825345b285cc5 0.0s done
+#18 exporting manifest list sha256:224967c1b2e1cdb4d6a72246557764247eed697a4c523aa1767fc9c55f956591 done
+#18 naming to docker.io/library/bio-ecom-fronted-eyhz3t:latest done
+#18 unpacking to docker.io/library/bio-ecom-fronted-eyhz3t:latest
+#18 unpacking to docker.io/library/bio-ecom-fronted-eyhz3t:latest 4.2s done
+#18 DONE 15.5s
+[33m3 warnings found (use docker --debug to expand):
+[0m - SecretsUsedInArgOrEnv: Do not use ARG or ENV instructions for sensitive data (ENV "SESSION_SECRET") (line 14)
+- UndefinedVar: Usage of undefined variable '$NIXPACKS_PATH' (line 23)
+- SecretsUsedInArgOrEnv: Do not use ARG or ENV instructions for sensitive data (ARG "SESSION_SECRET") (line 13)
+=== Successfully Built! ===
+Run:
+docker run -it bio-ecom-fronted-eyhz3t
+✅ Nixpacks build completed.
